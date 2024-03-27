@@ -1,7 +1,7 @@
 {
-  "name": "cryptocurrency-crypto-bot",
+  "name": "Tipbot",
   "version": "1.3.2",
-  "description": "Cryptocurrency-crypto-bot is an open-source Node.js wallet bot for Discord.",
+  "description": "Tipbot is an open-source Node.js wallet bot for Discord.",
   "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "scripts": "./functions/**/*.js",
     "assets": "./storage/**/*"
   },
-  "author": "Christian Grieger",
+  "author": "Keekuk",
   "license": "MIT",
   "dependencies": {
     "altcoin-rpc": "^1.0.2",
